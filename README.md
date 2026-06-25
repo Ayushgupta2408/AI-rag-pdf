@@ -11,6 +11,11 @@ The **AI RAG PDF App** is a cutting-edge AI-powered document interaction tool de
 - **Enhanced Contextual AI**: The app uses Pinecone as a vector database for efficient document search and retrieval.
 - **Fast & Efficient Embeddings**: Hugging Face embedding inference ensures high-quality text vectorization for better responses.
 
+  ## Architecture
+  <p align="center">
+  <img src="client/architecture.jpg" alt="Project Image" width="800">
+</p>
+
 ## Tech Stack
 - **Frontend**: React.js (Vite)
 - **Backend**: Node.js with Express.js
